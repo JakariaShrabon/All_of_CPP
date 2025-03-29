@@ -1,6 +1,6 @@
 
-## Java for everyone
-There are some code about java programming language .
+## C++ for everyone
+There are some code about C++ programming language .
 
 
 ## What you will learn this Repositories
